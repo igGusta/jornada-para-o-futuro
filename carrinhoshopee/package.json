@@ -1,0 +1,12 @@
+{
+  "name": "shopee-cart-terminal",
+  "version": "1.0.0",
+  "description": "Sistema de carrinho de compras estilo Shopee para o terminal — Desafio DIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "terminal", "carrinho", "shopee", "DIO"],
+  "author": "Gusta",
+  "license": "MIT"
+}
